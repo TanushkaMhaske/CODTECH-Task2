@@ -5,3 +5,16 @@
 It is a branch of AI focused on training agents to make sequential decisions in an environment to maximize cumulative rewards.</h4>
 
 <h2>The Output of the following program is:</h2>
+Reward
+ ^
+ |                                  ***
+ |                             ***
+ |                          ***
+ |                    *******
+ |                ***
+ |           *****
+ |   ******
+ |****
+ +---------------------------------------------------->
+                     Episodes
+
